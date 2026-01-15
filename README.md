@@ -5,28 +5,28 @@ A full-stack community wall app where parents can share short posts, like posts,
 
 ---
 
-## Table of Contents
+# Table of Contents
 
-- [Demo](#demo)  
-- [Tech Stack](#tech-stack)  
-- [Project Structure](#project-structure)  
-- [Setup Instructions](#setup-instructions)  
+- [Demo]
+- [Tech Stack] 
+- [Project Structure] 
+- [Setup Instructions]
   - [Backend](#backend)  
   - [Frontend](#frontend)  
-- [API Documentation](#api-documentation)  
-- [Likes and Comments](#likes-and-comments)  
-- [Optional Deployment](#optional-deployment)  
-- [Screenshots & Workflow](#screenshots--workflow)  
+- [API Documentation]
+- [Likes and Comments]
+- [Optional Deployment]
+- [Screenshots & Workflow]
 
 ---
 
-## Demo
+# Demo
 
 *(Optional: Add deployed demo link here)*
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 - **Backend:** Node.js, Express.js, MongoDB (Atlas)  
 - **Frontend:** Flutter (Mobile-friendly UI)  
@@ -41,7 +41,7 @@ A full-stack community wall app where parents can share short posts, like posts,
 
 ```
 
-src/parenting-community-wall/
+/parenting-community-wall/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -65,9 +65,6 @@ src/parenting-community-wall/
 │   └── pubspec.yaml
 └── README.md
 
-````
-
----
 
 ## Setup Instructions
 
@@ -185,6 +182,7 @@ Base URL: `http://localhost:5050/api/posts`
 ---
 
 ## Screenshots & Workflow
+
 
 1. **Post Composer:** Enter name and message, click "Post".
 2. **Community Feed:** Shows posts sorted by newest or most liked.
