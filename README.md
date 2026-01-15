@@ -183,6 +183,9 @@ Base URL: `http://localhost:5050/api/posts`
 
 ## Screenshots & Workflow
 
+<img width="496" height="728" alt="Screenshot 2026-01-15 at 12 58 14" src="https://github.com/user-attachments/assets/d7bd73c8-71f2-4714-a9b1-d822914ea65a" />
+
+
 
 1. **Post Composer:** Enter name and message, click "Post".
 2. **Community Feed:** Shows posts sorted by newest or most liked.
@@ -193,6 +196,3 @@ Base URL: `http://localhost:5050/api/posts`
 **Author:** Gaurav Kumar
 **Assignment:** Parenting Community Wall
 **Date:** January 2026
-
-```
-```
