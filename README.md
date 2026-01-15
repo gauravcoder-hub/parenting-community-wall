@@ -173,13 +173,7 @@ Base URL: `http://localhost:5050/api/posts`
 
 ---
 
-## Optional Deployment
 
-* Backend: Render / Railway
-* Frontend: Vercel / Netlify
-* Set environment variables for API URL and MongoDB connection.
-
----
 
 ## Screenshots & Workflow
 
